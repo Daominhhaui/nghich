@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.backgrounds{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    background-size: 100%;
+
+}
+.chay{
+    position: absolute;
+    top: 40%;
+    transform: translateY(-40%);
+}
+.chu{
+    color: white;
+    font-size: 50px;
+    font-style: normal;
+    background: linear-gradient(to right, #52b788, #3a86ff);
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+
